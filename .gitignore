@@ -1,0 +1,5 @@
+checkpoints/sam2.1_hiera_base_plus.pt
+checkpoints/sam2.1_hiera_large.pt
+checkpoints/sam2.1_hiera_small.pt
+checkpoints/sam2.1_hiera_tiny.pt
+volleylab_data/
